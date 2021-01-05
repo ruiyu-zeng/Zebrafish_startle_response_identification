@@ -12,4 +12,4 @@
 
 #### Below is the screenshot of what a startle response looks like in my setup 
 
-![]Startle.PNG
+![](Startle.PNG)
