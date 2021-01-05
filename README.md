@@ -10,6 +10,6 @@
 
 #### Because the fast startle response in zebrafish is very stereotypical and occurs in a short amount of time (< 50ms), the code then compute the gradient values for all difference frames. Thresholding is then applied to identify when startle response occurs in a single video. 
 
-
+#### Below is the screenshot of what a startle response looks like in my setup 
 
 
